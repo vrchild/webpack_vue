@@ -1,0 +1,6 @@
+npm install imagemin-gifsicle imagemin-jpegtran imagemin-optipng imagemin-svgo --save-dev
+👆👆👆👆👆👆👆👆👆👆狗屎
+
+
+Element plus 坑（应该有loader少能解决）
+    全部引入，自定义样式，需在 styles/element/index.scss 文件中引入全部样式，main.js中引入不生效
